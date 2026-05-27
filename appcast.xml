@@ -19,7 +19,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v0.2/Lumini-0.1-1.dmg" length="14190094" type="application/octet-stream" sparkle:edSignature="aJ84fuAb3vTpWIj5hYb8a4zc3LTWDXP8wwAAEeSCoXspQovIQdXpfDYY/5E6b48xNEJw+v6D6/aJJ5HGKruxAQ=="/>
+            <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v0.1/Lumini-0.1-1.dmg" length="14190094" type="application/octet-stream" sparkle:edSignature="aJ84fuAb3vTpWIj5hYb8a4zc3LTWDXP8wwAAEeSCoXspQovIQdXpfDYY/5E6b48xNEJw+v6D6/aJJ5HGKruxAQ=="/>
         </item>
     </channel>
 </rss>
