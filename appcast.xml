@@ -3,23 +3,12 @@
     <channel>
         <title>Lumini</title>
         <item>
-            <title>0.2</title>
-            <pubDate>Thu, 28 May 2026 00:04:01 +0100</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <title>0.3</title>
+            <pubDate>Thu, 28 May 2026 10:14:18 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v0.2/Lumini-0.2-2.dmg" length="14181502" type="application/octet-stream" sparkle:edSignature="xq1Vh64FYmoB3LGDwoMLCwR51qIe4avizXhNqyFmtXpqRvNSLW1v0hMFiBv/6V6GSRr7aopCmGODaExr4Q/mCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v0.2/Lumini2-1.delta" sparkle:deltaFrom="1" length="357030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/VlsZH9V3lfSpmNsb7zcF9EMe4CUer/kb9epPHeG/Ibo23jbvcZwPWXwbqg57xssFHVAD/epV2wIykr89w9ZAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1</title>
-            <pubDate>Wed, 27 May 2026 23:04:38 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v0.1/Lumini-0.1-1.dmg" length="14190094" type="application/octet-stream" sparkle:edSignature="aJ84fuAb3vTpWIj5hYb8a4zc3LTWDXP8wwAAEeSCoXspQovIQdXpfDYY/5E6b48xNEJw+v6D6/aJJ5HGKruxAQ=="/>
+            <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v0.3/Lumini-0.3-3.dmg" length="14177420" type="application/octet-stream" sparkle:edSignature="QxCQVSYb4Sq8s+lZK0zBKgbtt0bZqUInhVz4hx0GESzdNfp5Vf06cGvDgkT5dhKm7BI6R5GFN9Cyk4gDogEVDQ=="/>
         </item>
     </channel>
 </rss>
