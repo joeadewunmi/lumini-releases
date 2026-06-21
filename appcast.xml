@@ -8,7 +8,7 @@
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/joeadewunmi/lumini-private/releases/download/v2.7/Lumini-2.7-18.dmg" length="22383217" type="application/octet-stream" sparkle:edSignature="gb2gRafuR7cdBZ1qIFlrwtbZGWtbLuGXj1Iz+NGHXdXbTM6oAGlXjRTL4zkfZep+quc3YjuI2hi11X8LfgdFAQ=="/>
+            <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v2.7/Lumini-2.7-18.dmg" length="22383217" type="application/octet-stream" sparkle:edSignature="gb2gRafuR7cdBZ1qIFlrwtbZGWtbLuGXj1Iz+NGHXdXbTM6oAGlXjRTL4zkfZep+quc3YjuI2hi11X8LfgdFAQ=="/>
         </item>
         <item>
             <title>2.3</title>
