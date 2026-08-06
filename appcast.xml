@@ -3,6 +3,21 @@
     <channel>
         <title>Lumini</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Thu, 06 Aug 2026 20:23:11 +0100</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.4/Lumini-1.0.4-23.dmg" length="23805364" type="application/octet-stream" sparkle:edSignature="GSrzWuM1aPoda9F5m2+smX6hzHaDKEvtGwJiVghuUODdrONq9SJDbPATzMjX/ctkNOaNJBY/q2fOiQun4NjADA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.4/Lumini23-22.delta" sparkle:deltaFrom="22" length="4034022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zosHeBzK7qSGgjY+iNq/P7aAB9NJWyhD2NeOHO40HRUNbNyfpiybCcZILFQpRMPrcIqB4aMMGqwPJXJ/W1uSAw=="/>
+                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.4/Lumini23-21.delta" sparkle:deltaFrom="21" length="4036466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HK4rw8RxI+UWOA0ARM+V9V7Lt0jDkOofLQE/X65mLACHKafiMQldDtDMzE3CAL1SbmGLyOii2/WmhX8ECkd2Dg=="/>
+                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.4/Lumini23-20.delta" sparkle:deltaFrom="20" length="4036218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BTXB6rxguPU/HOOkXBwYHfi3B2DIxuOuOMlOY8hujcpPASaFOHYxdiOnxKG0M88YmQ/lX4F7aPg6R+XzxRCwDA=="/>
+                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.4/Lumini23-19.delta" sparkle:deltaFrom="19" length="4054538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8jLAuvFwJoQZXwS7GoLfSZ2RV7myKNjAo6eJNuSjzEyo4BKLq+wSz1luzK2RpDF+QHRftWQbXNHECYed9++DCg=="/>
+                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.4/Lumini23-17.delta" sparkle:deltaFrom="17" length="9152354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7EYTywS3+DfgMtSfj5LstbHRgRE0oGBofPAiMhVWY7qYAjikCVv+wO1lUMj6XeuNMhS0tSEendFZ86pHTU7dDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Tue, 28 Jul 2026 22:38:19 +0100</pubDate>
             <sparkle:version>22</sparkle:version>
@@ -25,11 +40,11 @@
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.2/Lumini-1.0.2-21.dmg" length="22982744" type="application/octet-stream" sparkle:edSignature="NITgiIVUpK8YKIEHr3xbJry3Oaw3t6aY30GtJd5ZOCBCMbVJlupJFXCjIkky3GHCjpOZ15XSxfdf0/nHphOIBQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.3/Lumini21-20.delta" sparkle:deltaFrom="20" length="872158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SMU7401BHTX5EMLjww21O3ZwRh9Q+yFoTL33Gp2jMgStq5KYuVguROw28VEJGpdBfYQxeexZY3GTXDTR4RuGDw=="/>
-                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.3/Lumini21-19.delta" sparkle:deltaFrom="19" length="1359518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nvbtmjRnltSFQ9fnu3dtXbG9dw1RpPDsSbL6P8SwS3jurzkgpdsQP+vQCn+dcjazHDn+nYU07fEE7n3wSyocCA=="/>
-                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.3/Lumini21-17.delta" sparkle:deltaFrom="17" length="7868670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QC75TlKI5s9AyO07ln/+fvrMM2jgvsT4L3UTXFkaOYln0ul2IBV1qtURG5gHob4qtc4NTasuE/b5wwIYIrfrBg=="/>
-                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.3/Lumini21-16.delta" sparkle:deltaFrom="16" length="7872250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tj6pmilnxm9u4ioTta4kgK+QHlM7qNZXHfi3YcWHjjN6cRfb1hsn/K4Fjqxe37UNiOdKBrIHPbufDBcXOhwVAg=="/>
-                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.3/Lumini21-15.delta" sparkle:deltaFrom="15" length="8439058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BeCUKUX9eM2QPAc8qh8qscw4z/FIbNcTj9xlqdMPslwoqqYDcXmGfPRSMVFMBERuc0iUxjVVWMgpXyjnp4OGBQ=="/>
+                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.4/Lumini21-20.delta" sparkle:deltaFrom="20" length="872158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SMU7401BHTX5EMLjww21O3ZwRh9Q+yFoTL33Gp2jMgStq5KYuVguROw28VEJGpdBfYQxeexZY3GTXDTR4RuGDw=="/>
+                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.4/Lumini21-19.delta" sparkle:deltaFrom="19" length="1359518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nvbtmjRnltSFQ9fnu3dtXbG9dw1RpPDsSbL6P8SwS3jurzkgpdsQP+vQCn+dcjazHDn+nYU07fEE7n3wSyocCA=="/>
+                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.4/Lumini21-17.delta" sparkle:deltaFrom="17" length="7868670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QC75TlKI5s9AyO07ln/+fvrMM2jgvsT4L3UTXFkaOYln0ul2IBV1qtURG5gHob4qtc4NTasuE/b5wwIYIrfrBg=="/>
+                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.4/Lumini21-16.delta" sparkle:deltaFrom="16" length="7872250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tj6pmilnxm9u4ioTta4kgK+QHlM7qNZXHfi3YcWHjjN6cRfb1hsn/K4Fjqxe37UNiOdKBrIHPbufDBcXOhwVAg=="/>
+                <enclosure url="https://github.com/joeadewunmi/lumini-releases/releases/download/v1.0.4/Lumini21-15.delta" sparkle:deltaFrom="15" length="8439058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BeCUKUX9eM2QPAc8qh8qscw4z/FIbNcTj9xlqdMPslwoqqYDcXmGfPRSMVFMBERuc0iUxjVVWMgpXyjnp4OGBQ=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -62,14 +77,6 @@
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/joeadewunmi/lumini-private/releases/download/v2.0/Lumini.dmg" length="11852050" type="application/octet-stream" sparkle:edSignature="Y9o+YBln/BXAwYeJLuGV0E7B9q9/+kuhhFlNRyekZuYLPwbTYoL7aUYhurAQFfmiSuWuCUNHKXgtzaKCyaMGCQ=="/>
-        </item>
-        <item>
-            <title>1.9</title>
-            <pubDate>Sat, 14 Mar 2026 08:33:19 -0700</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/joeadewunmi/lumini-private/releases/download/v1.9/Lumini.dmg" length="11851619" type="application/octet-stream" sparkle:edSignature="l0OE/1XAsVgbyyP0vty+50oqzkTeR1yTRsuKtCU/m8UHduT/9cafKI/x1Vy5p8RW2t5JKDFIqmar/jRf6NRuDg=="/>
         </item>
     </channel>
 </rss>
